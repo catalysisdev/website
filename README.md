@@ -1,8 +1,11 @@
 # Website
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/29355b32-b260-4d29-a54c-7dc67ed6fda6/deploy-status)](https://app.netlify.com/sites/catalysis/deploys)
+
+
 This repository contains Catalysis' website powered by [Vitepress](https://vitepress.vuejs.org/).
 
-The site is continuously deployed through Netlify and we aim to switch to Catalysis once we've released it.
+The site is continuously deployed through [Netlify](https://app.netlify.com/sites/catalysis/overview) and we aim to switch to Catalysis once we've released it.
 
 ## Set up
 
