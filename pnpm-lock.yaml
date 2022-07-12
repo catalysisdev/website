@@ -1,12 +1,10 @@
 lockfileVersion: 5.4
 
 specifiers:
-  body-scroll-lock: 4.0.0-beta.0
   vitepress: 1.0.0-alpha.4
   vue: 3.2.37
 
 devDependencies:
-  body-scroll-lock: 4.0.0-beta.0
   vitepress: 1.0.0-alpha.4_tbq7qqbbedk3tko5ldgdax3r7a
   vue: 3.2.37
 
