@@ -29,7 +29,11 @@ jobs:
         with:
           node-version: ${{ env.NODE_VERSION }}
           cache: 'pnpm'
-      - name: Install dependencies
-        run: pnpm install
+      - uses: pnpm/action-setup@v2.0.1
+        name: Install pnpm
+        id: pnpm-install
+        with:
+          version: latest
+          run_install: true
       - name: Build
         run: pnpm run build
