@@ -1,5 +1,6 @@
 # Website
 
+[![website](https://github.com/catalysisdev/website/actions/workflows/website.yml/badge.svg)](https://github.com/catalysisdev/website/actions/workflows/website.yml)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/29355b32-b260-4d29-a54c-7dc67ed6fda6/deploy-status)](https://app.netlify.com/sites/catalysis/deploys)
 
 
