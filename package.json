@@ -1,0 +1,10 @@
+{
+  "name": "@catalysisdev/docs",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Catalysis's static site powered by Vitepress",
+  "devDependencies": {
+    "vitepress": "1.0.0-alpha.4",
+    "vue": "^3.2.37"
+  }
+}
