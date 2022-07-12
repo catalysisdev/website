@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Catalysis's static site powered by Vitepress",
   "scripts": {
-    "prebuild": "test \"$CI\" = true && npx pnpm install -r --store=node_modules/.pnpm-store || echo skipping pnpm install",
+    "prebuild": "test \"$CI\" = true && npx pnpm install -r --store=node_modules/.pnpm-store || echo skiping pnpm install",
     "dev": "vitepress dev src",
     "build": "vitepress build src",
     "serve": "vitepress serve src"
