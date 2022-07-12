@@ -2,7 +2,7 @@
 
 Despite the **decentralized** nature of the Internet's design,
 it's experienced a centralization in the developer community by [cloud providers](https://en.wikipedia.org/wiki/Cloud_computing) that seek capital extraction at any cost through infrastructure and convenient (and often "free") tools. 
-Leaving the infrastructure and the foundational tools that power today's economy in the hands of a few players leads to monopolistic practices that eliminate diversity and distribute value more equally across the Internet's population.
+Leaving the infrastructure and the foundational tools that power today's economy in the hands of a few players leads to monopolistic practices that eliminate diversity.
 
 We need an alternative model, but **what does it take to break the dependency?**
 We need to **reduce the costs** associated with abandoning the model.
