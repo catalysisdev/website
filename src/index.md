@@ -14,7 +14,7 @@ hero:
 features:
   - icon: 👩🏾‍💻
     title: Catalysis, The DX that can't be beat
-    details: Catalysis is designed to make deployment fun. It's there right when you need it and from where you need it and all it takes to deploy a piece of software is one step.
+    details: We design Catalysis to make deployment fun. It's there right when you need it and from where you need it, and all it takes to deploy a piece of software is one step.
   - icon: 🌍
     title: Bring your own infrastructure
     details: You can self-host Catalysis or use the hosted version and configure the organization to deploy to your infrastructure. Catalysis does the heavy-lifting orchestration work.

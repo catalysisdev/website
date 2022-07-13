@@ -4,6 +4,7 @@ export default defineConfig({
   lang: "en-US",
   title: "Catalysis",
   description: "An open-source deployment tool",
+  head: [["link", { rel: "icon", type: "image/x-icon", href: "/favicon.ico" }]],
   themeConfig: {
     logo: "/rounded-logo.svg",
     socialLinks: [
@@ -28,7 +29,7 @@ export default defineConfig({
     ],
     footer: {
       message: "Released under the Mozilla Public License Version 2.0.",
-      copyright: "Copyright © 2022-present Pedro Piñera",
+      copyright: "Copyright © 2022-present Catalysis",
     },
   },
 });
