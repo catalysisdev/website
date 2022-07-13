@@ -1,4 +1,5 @@
 ---
+title: An open-source deployment tool
 layout: home
 hero:
   name: Catalysis

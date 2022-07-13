@@ -4,7 +4,9 @@ export default defineConfig({
   lang: "en-US",
   title: "Catalysis",
   description: "An open-source deployment tool",
-  head: [["link", { rel: "icon", type: "image/x-icon", href: "/favicon.ico" }]],
+  head: [
+    ["link", { rel: "icon", type: "image/x-icon", href: "/rounded-logo.png" }],
+  ],
   themeConfig: {
     logo: "/rounded-logo.svg",
     socialLinks: [
