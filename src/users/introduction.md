@@ -19,6 +19,11 @@ We believe that the above is possible through an [open-source](https://en.wikipe
 
 Catalysis is designed to be easily self-hostable, integrate with different hosting solutions and strategies, and, more importantly, support software crafters along their journey of empowering others through software.
 
+::: tip LOOKING FOR CONTRIBUTORS
+If you feel connected with the project's mission and would like to contribute to it, we'd love you to do so. Drop us a line at [hola@catalysis.dev](mailto:hola@catalysis.dev), and we'll help you get started with the project.
+Don't be shy. We are eager for new ideas and energy coming to the project.
+:::
+
 ## Specification
 
 - **Built upon [Elixir](https://elixir-lang.org/) and [Phoenix](https://www.phoenixframework.org/):** As a deployment tool, it'll have to run build and deploy workflows concurrently, ensuring that errors in one deployment don't bleed into other deployments and represent the deployment state in real-time through the UI. These traits make [Erlang](https://www.erlang.org/), [Elixir](https://elixir-lang.org/), the [Phoenix Framework](https://www.phoenixframework.org/), and [LiveView](https://github.com/phoenixframework/phoenix_live_view) a suitable tech stack for the project. As a side benefit, users and we can get the most out of the resources in the host Catalysis runs.
