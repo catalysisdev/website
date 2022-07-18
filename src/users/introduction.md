@@ -13,7 +13,7 @@ We need to **reduce the costs** associated with abandoning the model.
 
 The first one of the costs is **financial**. Many tools harness users through free plans that [treat them as products and not customers](https://quoteinvestigator.com/2017/07/16/product/). The second cost has to do with **developers' ergonomics and convenience**. Giving up on those tools leads to alternatives, often open-source, with worse experiences. The reason is that centralized and private solutions are usually built in the context of financially sustainable or VC-backed companies that can gear money towards marketing, design, and development efforts (e.g., [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), [Fly](https://fly.io/), [Heroku](https://dashboard.heroku.com/)), resulting in better products.
 
-**What if one could help decentralize software hosting without compromising on developer experience?What if they could contribute to the project's mission and build for the long-term?** That's what Catalysis sets out to solve.
+**What if you could help decentralize software hosting without compromising on developer experience? What if you could contribute to the project's mission and build for the long-term?** That's what Catalysis sets out to solve.
 
 We believe that the above is possible through an [open-source](https://en.wikipedia.org/wiki/Open_source) deployment tool, a diverse community of software crafters, and an organization based on the [steward-ownership](https://purpose-economy.org/en/whats-steward-ownership/) model to ensure self-governance and that profits serve a purpose.
 
@@ -25,6 +25,21 @@ Catalysis is designed to be easily self-hostable, integrate with different hosti
 
 ## Next steps
 
-  - **Catalysis hosting and infrastructure:**
-- **Catalysis hosting with user's infrastructure:**
-- **Self-hosting with user's infrastructure:**
+Catalysis' open source nature presents you with different configurations that you can choose from:
+
+### Our hosting and infrastructure
+#### (Recommended)
+
+This option is the most convenient and recommended to support the project to ensure its long-term sustainability financially. We host an instance of Catalysis and provide the infrastructure so that you can focus on developing your projects. The costs are the cost of the underlying infrastructure plus some interest for the development, maintenance, and support work.
+
+### Our hosting and your infrastructure
+
+Suppose you prefer to bring your infrastructure, for example, when your organization already has a billing plan with a cloud provider. In that case, you can configure your organization on our Catalysis instance to use your infrastructure. The costs in this setup are minimal and are based on the number of organization users.
+
+Check out [the cloud provider](/users/cloud-provider) documentation to learn how to connect your account to a cloud provider.
+
+### Your hosting and infrastructure
+
+If you prefer to run your instance of Catalysis deploying to your infrastructure, you have that option too. Note that it incurs a cost on your end associated with running and updating a Catalysis instance.
+
+Check out [the deploy](/contributors/deploy) guides to learn how to deploy Catalysis to the most common providers.

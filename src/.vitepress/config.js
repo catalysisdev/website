@@ -42,7 +42,7 @@ export default defineConfig({
       { icon: "github", link: "https://github.com/catalysisdev" },
     ],
     nav: [
-      { text: "Mastodon", link: "https://craftweg.microblog.com/catalysis" },
+      // { text: "Mastodon", link: "https://craftweg.microblog.com/catalysis" },
     ],
     editLink: {
       pattern: "https://github.com/catalysisdev/website/edit/main/src/:path",
@@ -54,7 +54,12 @@ export default defineConfig({
         items: [
           { text: "Introduction", link: "/users/introduction" },
           { text: "Get started", link: "/users/get-started" },
+          { text: "Cloud provider", link: "/users/cloud-provider" },
         ],
+      },
+      {
+        text: "Contributors",
+        items: [{ text: "Deploy", link: "/contributors/deploy" }],
       },
     ],
     footer: {
