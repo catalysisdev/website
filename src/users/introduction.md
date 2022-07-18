@@ -32,18 +32,18 @@ Don't be shy. We are eager for new ideas and energy coming to the project.
 
 Catalysis' open source nature presents you with different configurations that you can choose from:
 
-### Our hosting and infrastructure
+### ❤️ Our hosting and infrastructure
 #### (Recommended)
 
 This option is the most convenient and recommended to support the project to ensure its long-term sustainability financially. We host an instance of Catalysis and provide the infrastructure so that you can focus on developing your projects. The costs are the cost of the underlying infrastructure plus some interest for the development, maintenance, and support work.
 
-### Our hosting and your infrastructure
+### 🌱 Our hosting and your infrastructure
 
 Suppose you prefer to bring your infrastructure, for example, when your organization already has a billing plan with a cloud provider. In that case, you can configure your organization on our Catalysis instance to use your infrastructure. The costs in this setup are minimal and are based on the number of organization users.
 
 Check out [the cloud provider](/users/cloud-provider) documentation to learn how to connect your account to a cloud provider.
 
-### Your hosting and infrastructure
+### 👩🏾‍💻 Your hosting and infrastructure
 
 If you prefer to run your instance of Catalysis deploying to your infrastructure, you have that option too. Note that it incurs a cost on your end associated with running and updating a Catalysis instance.
 
