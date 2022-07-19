@@ -59,7 +59,10 @@ export default defineConfig({
       },
       {
         text: "Contributors",
-        items: [{ text: "Deploy", link: "/contributors/deploy" }],
+        items: [
+          { text: "Deployment", link: "/contributors/deployment" },
+          { text: "Self-hosting", link: "/contributors/self-hosting" },
+        ],
       },
     ],
     footer: {
