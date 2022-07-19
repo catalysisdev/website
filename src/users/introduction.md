@@ -47,4 +47,4 @@ Check out [the cloud provider](/users/cloud-provider) documentation to learn how
 
 If you prefer to run your instance of Catalysis deploying to your infrastructure, you have that option too. Note that it incurs a cost on your end associated with running and updating a Catalysis instance.
 
-Check out [the deploy](/contributors/deploy) guides to learn how to deploy Catalysis to the most common providers.
+Check out [the self-hosting](/contributors/self-hosting) guides to learn how to deploy Catalysis to the most common providers.
